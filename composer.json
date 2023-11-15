@@ -1,5 +1,5 @@
 {
-  "name": "omz13/kirby3-feeds",
+  "name": "mcdeck/kirby3-feeds",
   "type": "kirby-plugin",
   "description": "kirby3 plugin to generate syndication feeds (atom, json, rss) from collections",
   "keywords": [
